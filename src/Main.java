@@ -12,6 +12,5 @@ public class Main {
 //        ConditionalLogic.blockStatement();
 //        Looping.forEachLoop();
         UnderstandingMethods.showSum(7.5f, 1.4f, 3);
-
     }
 }
